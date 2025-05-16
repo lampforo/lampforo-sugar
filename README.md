@@ -61,7 +61,7 @@ _Admin: admin@lampforo.com
 ## Courses :movie_camera: 
 
 * [Youtube](https://www.youtube.com/@JonathanCastroDeveloper)
-* [Udemy](https://www.udemy.com/course/curso-laravel-10/)    
+* [Udemy](https://www.udemy.com/course/draft/6521689/?couponCode=7C18AA95634C8AD11AD8)    
 
 ## Author ✒️
 
